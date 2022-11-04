@@ -1,0 +1,13 @@
+name: everyman-shiny-app
+title: everyman-shiny-app
+username:
+account: everyman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7520633
+bundleId: 6474092
+url: https://everyman.shinyapps.io/everyman-shiny-app/
+when: 1667539511.10706
+lastSyncTime: 1667539511.10707
+asMultiple: FALSE
+asStatic: FALSE
